@@ -1,0 +1,31 @@
+{
+  "name": "employee-tracker-c12",
+  "version": "1.0.0",
+  "description": "Employee Tracking Application",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TommyAlv/Employee-Tracker-C12.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TommyAlv/Employee-Tracker-C12/issues"
+  },
+  "homepage": "https://github.com/TommyAlv/Employee-Tracker-C12#readme",
+  "devDependencies": {
+    "inquirer": "^8.2.4",
+    "console.table": "^0.10.0",
+    "dotenv": "^16.0.3",
+    "mysql2": "^2.3.3"
+  },
+  "dependencies": {
+  }
+}
