@@ -31,6 +31,7 @@
 
   ## Screenshots
   ![screenshot](/assets/img/EmployeeTrackerScreenShot.png)
+  ![screenshot](/assets/img/EmployeeTracker.gif)
     
   
   
