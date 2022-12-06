@@ -30,7 +30,7 @@
   Licensed under the [MIT](https://opensource.org/licenses/MIT) license.
 
   ## Screenshots
-  ![screenshot](/assets/img/)
+  ![screenshot](/assets/img/EmployeeTrackerScreenShot.png)
     
   
   
